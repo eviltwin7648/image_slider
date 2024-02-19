@@ -14,9 +14,9 @@ const IMAGES = [pic1,pic2,pic3,pic4,pic5]
     <div
     style={{
       maxWidth:"1200px",
-      margin: "0 auto",
       width:"100%",
-      aspectRatio : "10/6"
+      aspectRatio : "500px",
+      margin: "0 auto",
     }}
     >
     
