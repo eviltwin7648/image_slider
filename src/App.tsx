@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9ce95104b4ef4e4113fb4e674d30a48de74da0b5
 
 import pic1 from "./images/1.jpg"
 import pic2 from "./images/2.jpg"
